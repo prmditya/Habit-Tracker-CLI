@@ -1,6 +1,6 @@
 # Habit Tracker CLI
 
-Hello everyone this is my Habit Tracker CLI Repository, I made this program when I'm in Highschool. There's a small assignment about last Project me and my team decide to make a Habit Tracker with Python. Me myself considering to choose Python because the language is very human, and also I want to learn more about Python.
+Habit Tracker CLI is _Command Lines Interface_ app that can be used for tracking, adding, removing habits. This app are made with python and written when I'm on Highschool. I'm learning lot of things with this app when I develop it, I learn about pandas table managements, about how to Create; Read; Update; and also Delete. Thank you for your attention after reading this repository don't forget to check my other repository too.
 
 ## Prerequisite
 - Pandas
